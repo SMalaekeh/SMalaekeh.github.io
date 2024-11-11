@@ -18,7 +18,7 @@ Work in Progress/Working Papers
 **The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
 *with Sergio Castellanos* <br>
 [Draft Available Upon Request]
-`(Presented at AGU 2023 & Macro Energy Systems 2024)`
+`Presented at AGU 2023 & Macro Energy Systems 2024`
 
 Peer-reviewed Published Papers
 ------ 
