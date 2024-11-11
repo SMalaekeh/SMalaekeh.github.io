@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m SayedMorteza Malaekeh, a Ph.D. student in Sustainable Systems Engineering at UT Austin, also pursuing a Master’s in Economics. I’m a graduate research assistant at the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), and at the [Energy Markets & Policy of the Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
+I’m SayedMorteza Malaekeh, a Ph.D. student in Sustainable Systems Engineering at UT Austin, also pursuing a Master’s in Economics. I’m a graduate research assistant at the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), and at the [Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
 
 I hold bachelor’s and master’s degrees in engineering with a minor in economics from Sharif University of Technology and was an exchange graduate student in Applied Mathematics at Saint Petersburg State University. I also spent last summer as a visiting researcher at the Division of the Humanities and Social Sciences (Department of Economics) at the California Institute of Technology, hosted by [Prof. Hannah Drucknemiller](https://www.hss.caltech.edu/people/hannah-druckenmiller).
 
