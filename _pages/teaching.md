@@ -13,7 +13,7 @@ author_profile: true
 **Dec 2021**  
 - **GIS & Remote Sensing**, Sharif University of Technology
 
-##### Courses Taught
+#### **COURSES TAUGHT**
 ------
 **May 2021**  
 - **Spatial Econometrics**, Saint Petersburg State University
