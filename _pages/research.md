@@ -3,71 +3,31 @@ title: Publications
 permalink: /research/
 ---
 
+### Working Papers
 
+**The Impact of Solar PV Adoption on Household Financial Health**  
+*with Sergio Castellanos, Gallen Barbose, & Erik O'Shaughnessy*
 
+**A Multimodal Causal Framework for Large-Scale Ecosystem Valuation: Application to Wetland Benefits for Flood Mitigation**  
+*with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari*
 
-<br>
+**The Heterogeneous role of initial seeds in solar PV diffusion patterns by race and ethnicity**  
+*with Sergio Castellanos*
 
-### Working Papers and Preprints Under Review:
-<div style="margin-bottom: 20px;"></div>
+### Peer-reviewed Published Papers
 
-**Incentive Compatibility in the Auto-bidding World**
-*with Aranyak Mehta and Andres Perlroth*\
-R\&R at Management Science (Conference version appeared at EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
+**Malaekeh, S., Shiva, L., Safaie, A. (2024)**  
+Investigation of the economic impact of climate change on agriculture in Iran: spatial spillovers matter, *Agricultural Economics*, 55 (6), pp.433-453.  
+[Replication Data and Methods](https://doi.org/10.1111/agec.12821)
 
-**Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes**
-*with Christian Borgs, Remco van der Hofstad, and Amin Saberi* [\[paper\]](https://yalimohammadi.github.io/files/epidemic%20is%20local.pdf)
+**Danesh-e-Yazdi, M., Malaekeh, S. (2023)**  
+Investigating water resources and agricultural economy in the Mahabad study area by hydro-economic modeling, *Iran-Water Resources Research*, 19(2), pp. 87-105.
 
-**The impact of COVID-19 mitigation and testing on reopening a U.S. school district**
-*with Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*
+**Malaekeh, S., Safaie, A., Shiva, L., Tabari, H. (2022)**  
+Spatio-temporal variation of hydro-climatic variables and extreme indices over Iran based on reanalysis data, *Stochastic Environmental Research and Risk Assessment*, 36, pp. 3725–3752.  
+[Link to Article](https://doi.org/10.1007/s00477-022-02223-0)
 
-**A Local Graph Limits Perspective on Sampling-Based Graph Neural Networks** 
-*with Luana Ruiz and Amin Saberi*  [\[paper\]](https://arxiv.org/pdf/2310.10953.pdf)
+### Technical Reports
 
-**Network Games: Learning Equilibrium from Local Samples**
-*with Francesca Parise*
-
-
----
-<br>
-
-### Journal Publications:
-<div style="margin-bottom: 20px;"></div>
-
-**Locality of Random Digraphs on Expanders**
-*with Christian Borgs and Amin Saberi*\
-Annals of Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-probability/volume-51/issue-4/Locality-of-random-digraphs-on-expanders/10.1214/22-AOP1618.short)
-
-**Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**
-*with Persi Diaconis, Mohammad Roghani and Amin Saberi*\
-Annals of Applied Probability (2023). [\[paper\]](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-2/Sequential-importance-sampling-for-estimating-expectations-over-the-space-of/10.1214/22-AAP1834.short)
-
-**Relative-Risk and the Assessment of School Safety in the COVID-19 Pandemic**
-*with Kirankumar Shiragur, Ramesh Johari, David Scheinker, Kevin Schulman, and Kristan Staudenmayer*\
-Health Management, Policy, and Innovation (2021). [\[paper\]](https://hmpi.org/2021/02/25/relative-risk-and-the-assessment-of-school-safety-in-the-covid-19-pandemic-schools-may-offer-students-shelter-from-the-storm-2-25/)
-
----
-
-<br>
-
-### Peer-Reviewed Conference Papers:
-<div style="margin-bottom: 20px;"></div>
-
-**Incentive Compatibility in the Auto-bidding World**
-*with Aranyak Mehta and Andres Perlroth*\
-ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://yalimohammadi.github.io/files/Auto_bidding_is_not_IC_jul7.pdf)
-
-
-
-**Excess Supply in Spatial Matching Markets**
-*with Mohammad Akbarpour, Shengwu Li and Amin Saberi*\
-ACM Conference on Economics and Computation (EC'22). [\[paper\]](https://arxiv.org/abs/2104.03219)
-
-
-**Algorithms Using Local Graph Features to Predict Epidemics**
-*with Christian Borgs and Amin Saberi*\
-ACM-SIAM Symposium on Discrete Algorithms (SODA'22). [\[paper\]](https://arxiv.org/pdf/2110.08961.pdf)
-
-**Fractionally Log-Concave and Sector-Stable Polynomials: Counting Planar Matchings and More**
-*with Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong*\
-Annual ACM Symposium on Theory of Computing (STOC'21) [\[paper\]](https://arxiv.org/pdf/2102.02708.pdf)
+**Bayati, M., Malaekeh, S., Azimi, F., Danesh-e-Yazdi, M.**  
+Monitoring agricultural land-use change by combining remote sensing and machine learning algorithms over Miandoab regions, Iran, *Sharif Remote Sensing Research Center*, October 2019.
