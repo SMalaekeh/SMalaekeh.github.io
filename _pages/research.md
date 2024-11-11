@@ -16,7 +16,7 @@ Work in Progress/Working Papers
 `Will be Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
 
 **The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
-*with Sergio Castellanos*
+*with Sergio Castellanos* <br>
 [Draft Available Upon Request]
 `(Presented at AGU 2023 & Macro Energy Systems 2024)`
 
