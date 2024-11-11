@@ -24,6 +24,7 @@ Investigation of the economic impact of climate change on agriculture in Iran: s
 
 **Danesh-e-Yazdi, M., Malaekeh, S. (2023)**  
 Investigating water resources and agricultural economy in the Mahabad study area by hydro-economic modeling, *Iran-Water Resources Research*, 19(2), pp. 87-105.
+
 [Link to Article](https://www.iwrr.ir/article_168033.html?lang=en)
 
 **Malaekeh, S., Safaie, A., Shiva, L., Tabari, H. (2022)**  
