@@ -11,9 +11,12 @@ Work in Progress/Working Papers
 
 **A Multimodal Causal Framework for Large-Scale Ecosystem Valuation: Application to Wetland Benefits for Flood Mitigation**  
 *with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari*
+[NeurIPS Proposal](SMalaekeh.github.io/files/NeurIPS24_Proposal.pdf)
+[Draft Available Upon Request]
 
 **The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
 *with Sergio Castellanos*
+[Draft Available Upon Request]
 
 Peer-reviewed Published Papers
 ------ 
