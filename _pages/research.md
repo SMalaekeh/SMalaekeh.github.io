@@ -10,7 +10,8 @@ Work in Progress/Working Papers
 *with Sergio Castellanos, Gallen Barbose, & Erik O'Shaughnessy*
 
 **A Multimodal Causal Framework for Large-Scale Ecosystem Valuation: Application to Wetland Benefits for Flood Mitigation**  
-*with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari* 
+*with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari*
+ 
 [\[NeurIPS Proposal\]](https://SMalaekeh.github.io/files/NeurIPS24_Proposal.pdf)
 [Draft Available Upon Request]
 `Will be Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
