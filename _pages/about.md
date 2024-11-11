@@ -20,5 +20,5 @@ Service and Activities
 - **Board of Directors**, Persian Student Society, UT Austin
 - **Peer Mentor**, UT Austin 
 - **Teacher**, Yarigaran Education Charity Group
-- **Admin/Basketball Analysis and Writer**, [3Sanieh][https://www.instagram.com/3sanieh/]
+- **Admin/Basketball Analysis and Writer**, [3Sanieh](https://www.instagram.com/3sanieh/)
 - **Varsity Basketball Athelete**, Sharif University of Technology
