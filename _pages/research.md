@@ -22,7 +22,7 @@ Peer-reviewed Published Papers
 ------ 
 
 **Malaekeh, S., Shiva, L., Safaie, A. (2024)**  
-Investigation of the economic impact of climate change on agriculture in Iran: spatial spillovers matter, *Agricultural Economics*, 55 (6), pp.433-453. [Link to Article](https://doi.org/10.1111/agec.12821)
+Investigation of the economic impact of climate change on agriculture in Iran: spatial spillovers matter, *Agricultural Economics*, 55 (6), pp.433-453. [Link to Article](https://doi.org/10.1111/agec.12821) [Replication Data and Methods](https://github.com/SMalaekeh/AG_Paper_2023)
 
 **Danesh-e-Yazdi, M., Malaekeh, S. (2023)**  
 Investigating water resources and agricultural economy in the Mahabad study area by hydro-economic modeling, *Iran-Water Resources Research*, 19(2), pp. 87-105.
