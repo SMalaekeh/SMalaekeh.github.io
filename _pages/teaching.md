@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##### Workshop
+Workshops
 ------
 **Nov 2022**  
 - **GIS & Remote Sensing Applications for Economists**, Tehran Institute for Advanced Studies
@@ -13,7 +13,7 @@ author_profile: true
 **Dec 2021**  
 - **GIS & Remote Sensing**, Sharif University of Technology
 
-### **COURSES TAUGHT**
+Courses Taught
 ------
 **Spring 2021**  
 - **Spatial Econometrics**, Saint Petersburg State University
@@ -21,7 +21,7 @@ author_profile: true
 **2018-2021**  
 - **Introduction to Programming with MATLAB**, Sharif University of Technology
 
-##### Teaching Assistant
+Teaching Assistant
 ------
 **2018-2021**  
 - **Water and Wastewater Management, Undergraduate**, Prof. Safaie, Sharif University of Technology
