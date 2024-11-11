@@ -13,19 +13,12 @@ I hold bachelor’s and master’s degrees in engineering with a minor in econom
 
 My research focuses on environmental and energy economics and policy, incorporating elements of household finance and public economics. On the methods side, I am particularly interested in causal inference for complex issues, such as continuous treatments and unstructured data (e.g., images, graphs, text), where I leverage deep learning and machine learning to develop innovative solutions.
 
-Work in Progress
+Service and Activities
 ------
-
-
-
-Working Papers
-------
-
-
-
-Peer-Reviewed Publications
-------
-
-
-Conference/Seminar Presentation
-------
+- **Program Committe**: NeurIPS Workshop in GenAI for Health
+- **Reviewer**: NeurIPS Workshop in GenAI for Health, Agricultural Economics, Theoretical and Applied Climatology
+- **Board of Directors**, Persian Student Society, UT Austin
+- **Peer Mentor**, UT Austin 
+- **Teacher**, Yarigaran Education Charity Group
+- **Admin/Basketball Analysis and Writer**, [3Sanieh][https://www.instagram.com/3sanieh/]
+- **Varsity Basketball Athelete**, Sharif University of Technology
