@@ -12,7 +12,7 @@ Work in Progress/Working Papers
 **A Multimodal Causal Framework for Large-Scale Ecosystem Valuation: Application to Wetland Benefits for Flood Mitigation**  
 *with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari*
 
-**The Heterogeneous role of initial seeds in solar PV diffusion patterns by race and ethnicity**  
+**The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
 *with Sergio Castellanos*
 
 Peer-reviewed Published Papers
