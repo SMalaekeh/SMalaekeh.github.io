@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website! (Under Construction, PLS Come Back Later)"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
