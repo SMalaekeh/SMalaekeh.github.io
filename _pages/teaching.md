@@ -8,27 +8,22 @@ author_profile: true
 ### Workshop
 ------
 **Nov 2022**  
-**GIS & Remote Sensing Applications for Economists**, Tehran Institute for Advanced Studies
+- **GIS & Remote Sensing Applications for Economists**, Tehran Institute for Advanced Studies
+**Dec 2021**  
+- **GIS & Remote Sensing**, Sharif University of Technology
 
 ### Courses Taught
 ------
 **May 2021**  
-**Spatial Econometrics**, Saint Petersburg State University
-
-**Dec 2021**  
-**GIS & Remote Sensing**, Sharif University of Technology
-
+- **Spatial Econometrics**, Saint Petersburg State University
 **2018-2021**  
-**Introduction to Programming with MATLAB**, Sharif University of Technology
+- **Introduction to Programming with MATLAB**, Sharif University of Technology
 
 ### Teaching Assistant
 ------
-
 **2018-2021**  
-**Water and Wastewater Management, Undergrad**, Sharif University of Technology
-
+- **Water and Wastewater Management, Undergraduate**, Sharif University of Technology
 **Spring 2020**  
-**Engineering Probability and Statistics, Undergrad**, Sharif University of Technology
-
+- **Engineering Probability and Statistics, Undergraduate**, Sharif University of Technology
 **Spring 2020**  
-**Hydraulic Laboratory, Undergrad**, Sharif University of Technology
+- **Hydraulic Laboratory, Undergraduate**, Sharif University of Technology
