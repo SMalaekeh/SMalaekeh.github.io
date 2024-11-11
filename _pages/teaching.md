@@ -5,11 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
----
-title: Teaching
-permalink: /teaching/
----
-
 ### Workshop
 
 **Nov 2022**  
