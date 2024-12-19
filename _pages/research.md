@@ -14,7 +14,7 @@ Work in Progress/Working Papers
 [\[NeurIPS Proposal\]](https://SMalaekeh.github.io/files/NeurIPS24_Proposal.pdf)
 [\[NeurIPS Presentation\]](https://recorder-v3.slideslive.com/#/share?share=98066&s=1cba0ebb-a4c1-4c62-8464-6639a758b63b)
 [Draft Available Upon Request]
-`Will be Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
+`Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
 
 **The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
 *with Sergio Castellanos* <br>
