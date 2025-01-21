@@ -8,7 +8,7 @@ author_profile: true
 ### Past Presentations
 ---
 - **NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning** 2024
-[\[NeurIPS Presentation\]](https://recorder-v3.slideslive.com/#/share?share=98066&s=1cba0ebb-a4c1-4c62-8464-6639a758b63b)
+[\[NeurIPS Presentation\]](https://neurips.cc/virtual/2024/100549)
 - **American Geophysical Union (AGU), Washington, D.C.** 2024
 - **Sloan/Berkeley Summer School in Environmental and Energy Economics (Egg Timer), UC Berkeley** 2024
 - **Macro Energy Systems Conference (MES), Princeton University** 2024
