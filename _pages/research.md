@@ -12,7 +12,7 @@ Work in Progress/Working Papers
 **A Multimodal Causal Framework for Large-Scale Ecosystem Valuation: Application to Wetland Benefits for Flood Mitigation**  
 *with Hannah Drucknemiller, Connor Jerzack, & Georgia Gkioxari* <br>
 [\[NeurIPS Proposal\]](https://SMalaekeh.github.io/files/NeurIPS24_Proposal.pdf)
-[\[NeurIPS Presentation\]](https://recorder-v3.slideslive.com/#/share?share=98066&s=1cba0ebb-a4c1-4c62-8464-6639a758b63b)
+[\[NeurIPS Presentation\]](https://neurips.cc/virtual/2024/100549)
 [\[Working Paper\]](https://SMalaekeh.github.io/files/Malaekeh_WritingSample_HetwetCausal.pdf)
 `Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
 
