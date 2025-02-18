@@ -4,7 +4,10 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+### Upcoming Presentations
+---
+- **The Workshop in Environmental Economics and Data Science (TWEEDS) Portland, OR**, 2025
+  
 ### Past Presentations
 ---
 - **NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning** 2024
