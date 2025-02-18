@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Upcoming Presentations
 ---
-- **The Workshop in Environmental Economics and Data Science (TWEEDS) Portland, OR**, 2025
+- **The Workshop in Environmental Economics and Data Science (TWEEDS), Portland, OR**, 2025
   
 ### Past Presentations
 ---
