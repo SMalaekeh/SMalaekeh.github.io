@@ -16,18 +16,13 @@ Work in Progress/Working Papers
 [\[Working Paper\]](https://SMalaekeh.github.io/files/Malaekeh_WritingSample_HetwetCausal.pdf)
 `Presented at AGU 2024 & NeurIPS Workshop 2024 in Tackling Climate Change with Machine Learning`
 
-**The Heterogeneous Role of Initial Seeds in Solar PV Diffusion Patterns by Race and Ethnicity**  
-*with Sergio Castellanos* <br>
-[Draft Available Upon Request]
-`Presented at AGU 2023 & Macro Energy Systems 2024`
-
 Peer-reviewed Published Papers
 ------ 
 
 **Malaekeh, S., Castellanos, S. (2025)**  
 Residential solar photovoltaic seeding effects and their unequal impact on diffusion across racial and ethnic groups in the U.S., *Energy Policy*, 206, 114782.  
 [\[Link to Article\]](https://doi.org/10.1016/j.enpol.2025.114782)  
-`Presented at USAEE 2025`
+`Presented at USAEE 2025, AGU 2023 & Macro Energy Systems 2024`
 
 **Malaekeh, S., Shiva, L., Safaie, A. (2024)**  
 Investigating the economic impact of climate change on agriculture in Iran: Spatial spillovers matter, *Agricultural Economics*, 55 (6), pp.433-453. <br>
