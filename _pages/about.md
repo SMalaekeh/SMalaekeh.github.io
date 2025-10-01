@@ -7,15 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I’m SayedMorteza Malaekeh, a Ph.D. student in Sustainable Systems Engineering at the [University of Texas at Austin](https://www.utexas.edu/) (UT Austin), also pursuing a Master’s in Economics. I’m a graduate research assistant at the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), and at the [Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
+# About Me
 
-I hold bachelor’s and master’s degrees in civil and water resources engineering (*with highest distinction*), respectively, with a minor in economics from Sharif University of Technology and was an exchange graduate student in the Department of Applied Mathematics at [Saint Petersburg State University](https://english.spbu.ru/). I also spent last summer as a visiting researcher at the Division of the Humanities and Social Sciences (Department of Economics) at the [California Institute of Technology](https://www.caltech.edu/), hosted by [Prof. Hannah Drucknemiller](https://www.hss.caltech.edu/people/hannah-druckenmiller).
+I’m **SayedMorteza Malaekeh**, a Ph.D. student in **Sustainable Systems Engineering** at the [University of Texas at Austin](https://www.utexas.edu/), also pursuing a **Master’s in Economics**. I am a graduate research assistant at the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), and at the [Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
 
-My research focuses on environmental and energy economics and policy, incorporating elements of household finance and public economics. On the methods side, I am particularly interested in causal inference for complex settings (e.g., unstructured data such as images, graphs, texts), where I leverage deep learning and machine learning to develop innovative solutions.
+I am also a **Visiting PhD Researcher at the California Institute of Technology (2024 & 2025)** in the Division of the Humanities and Social Sciences (Economics and Computer Science), hosted by [Prof. Hannah Druckenmiller](https://www.hss.caltech.edu/people/hannah-druckenmiller). At Caltech, I develop **new methods for estimating conditional average treatment effects (CATE) with image-based treatments**, integrating Vision Transformers, CNNs, and Autoencoders into R-Learner and Causal Forest. These methods are applied to **large-scale multimodal datasets** to address **economics questions in environmental policy and decision making**
+
+I hold bachelor’s and master’s degrees in **Civil and Water Resources Engineering** (*with highest distinction*) with a minor in economics from **Sharif University of Technology**, and was an **exchange graduate student** in Applied Mathematics at [Saint Petersburg State University](https://english.spbu.ru/).
+
+My research lies at the intersection of **environmental & energy economics, household finance, and public economics**. Methodologically, I focus on **causal inference in complex settings** (spatial spillover effect estimation, continuous treatments; unstructured data such as images, graphs, and text), leveraging **machine learning and deep learning** to support **decision-making under uncertainty**.
+
 
 Service and Activities
 ------
-- **Program Committe**: NeurIPS Workshop in GenAI for Health
+- **Program Committe**: NeurIPS Workshop in GenAI for Health (2024 & 2025)
 - **Reviewer**: NeurIPS Workshop in GenAI for Health, Agricultural Economics, Theoretical and Applied Climatology, Environmental Monitoring and Assessment
 - **Board of Directors**, Persian Student Society, UT Austin
 - **Peer Mentor**, UT Austin 
