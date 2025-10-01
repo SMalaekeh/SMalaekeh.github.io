@@ -24,6 +24,11 @@ Work in Progress/Working Papers
 Peer-reviewed Published Papers
 ------ 
 
+**Malaekeh, S., Castellanos, S. (2025)**  
+Residential solar photovoltaic seeding effects and their unequal impact on diffusion across racial and ethnic groups in the U.S., *Energy Policy*, 206, 114782.  
+[\[Link to Article\]](https://doi.org/10.1016/j.enpol.2025.114782)  
+`Presented at USAEE 2025`
+
 **Malaekeh, S., Shiva, L., Safaie, A. (2024)**  
 Investigating the economic impact of climate change on agriculture in Iran: Spatial spillovers matter, *Agricultural Economics*, 55 (6), pp.433-453. <br>
 [\[Link to Article\]](https://doi.org/10.1111/agec.12821) [\[Replication Data and Methods\]](https://github.com/SMalaekeh/AG_Paper_2023)
