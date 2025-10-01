@@ -15,7 +15,7 @@ I am also a **Visiting PhD Researcher at the California Institute of Technology 
 
 I hold bachelor’s and master’s degrees in **Civil and Water Resources Engineering** (*with highest distinction*) with a minor in economics from **Sharif University of Technology**, and was an **exchange graduate student** in Applied Mathematics at [Saint Petersburg State University](https://english.spbu.ru/).
 
-My research lies at the intersection of **environmental & energy economics, household finance, and public economics**. Methodologically, I focus on **causal inference in complex settings** (spatial spillover effect estimation, continuous treatments; unstructured data such as images, graphs, and text), leveraging **machine learning and deep learning** to support **decision-making under uncertainty**.
+My research lies at the intersection of **environmental & energy economics and household finance**. Methodologically, I focus on **causal inference in complex settings** (spatial spillover effect estimation, continuous treatments; unstructured data such as images, graphs, and text), leveraging **machine learning and deep learning** to support **decision-making under uncertainty**.
 
 
 Service and Activities
