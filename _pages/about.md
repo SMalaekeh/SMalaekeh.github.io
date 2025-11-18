@@ -33,6 +33,7 @@ My research spans **energy & environmental economics, household finance, and cau
 **Systems & Cloud:** CUDA, Slurm, Linux/Bash, Docker, Kubernetes, AWS, GCP, Git  
 **Geo/Spatial:**  Gepandas, Rasterio, Tifffile, GDAL, ArcGIS, QGIS, Google Earth Engine
 
+
 ---
 
 ### Service & Activities
