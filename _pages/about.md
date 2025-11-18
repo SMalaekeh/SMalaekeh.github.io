@@ -17,7 +17,7 @@ At RESET-LAB, I lead a project with **Lawrence Berkeley National Laboratory** on
 
 I am also a **Visiting PhD Researcher at the [California Institute of Technology](https://caltech.edu) (2024 & 2025)** in HSS (Economics & Computer Science), hosted by [Prof. Hannah Druckenmiller](https://www.hss.caltech.edu/people/hannah-druckenmiller). At Caltech, I develop conditional average treatment effect estimation methods for image-based treatments, integrating Transformer Architecture, CNNs, and Autoencoders into R-Learner and Causal Forest for large-scale multimodal policy datasets.
 
-I hold bachelor’s and master’s degrees in Engineering (*highest distinction*) with a minor in economics from **Sharif University of Technology**, and completed a graduate exchange in Applied Mathematics at [**Saint Petersburg State University**](https://english.spbu.ru/).
+I hold bachelor’s and master’s degrees in Engineering (*highest distinction*) with a minor in economics from [**Sharif University of Technology**](https://en.sharif.ir/), and completed a graduate exchange in Applied Mathematics at [**Saint Petersburg State University**](https://english.spbu.ru/).
 
 My research spans **energy & environmental economics, household finance, and causal ML**, focusing on **continuous treatments, spatial spillovers, and unstructured data** (images, graphs, text) to support **decision-making under uncertainty**.
 
