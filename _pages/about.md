@@ -29,7 +29,7 @@ My research spans **energy & environmental economics, household finance, and cau
 **Deep Learning:** Vision Transformers, CNNs, Autoencoders, LLMs (HuggingFace, LangChain, LoRA/PEFT)  
 **Causal ML & Econometrics:** EconML, DoWhy, R-Learner, Causal Forests, Difference-in-Differences, Regression Discontinuity, A/B Testing, Synthetic Control
 **Quantitative Finance:** Backtesting (Backtrader), Time-series Forecasting (ARIMA, VAR, GARCH), Stochastic Processes (GBM, OU), Monte Carlo Simulation, Alpha Signal Development
-**Data Engineering:** Spark, Databricks, distributed pipelines, large-scale data cleaning (130M+ obs; 6k Vars; 13+ TB)  
+**Data Engineering:** Spark, Databricks, Distributed Pipelines, Large-scale Data Preproccessing (130M+ obs; 6k Vars; 13+ TB)  
 **Systems & Cloud:** CUDA, Slurm, Linux/Bash, Docker, Kubernetes, AWS, GCP, Git  
 **Geo/Spatial:**  Gepandas, Rasterio, Tifffile, GDAL, ArcGIS, QGIS, Google Earth Engine
 
