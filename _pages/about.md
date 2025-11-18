@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 **Visiting PhD Researcher at Caltech | Causal AI, Economics, Sustainability**  
-_Ph.D. Candidate • Data Scientist • ML & Quantitative Researcher_
 
 I am **seeking Summer 2025 internships** in **Data Science**, **Machine Learning Engineering**, **Quant Research**, and/or **Energy**.
 
