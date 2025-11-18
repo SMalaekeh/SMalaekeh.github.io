@@ -25,7 +25,7 @@ My research spans **energy & environmental economics, household finance, and cau
 
 ### Technical Skills
 
-**Programming & ML:** Python (PyTorch, scikit-learn, Pandas, NumPy), R, SQL  
+**Programming & ML:** Python (PyTorch, scikit-learn, Pandas, NumPy), R, SQL , STATA, MATLAB 
 **Deep Learning:** Vision Transformers, CNNs, Autoencoders, LLMs (HuggingFace, LangChain, LoRA/PEFT)  
 **Causal ML & Econometrics:** EconML, DoWhy, R-Learner, Causal Forests, Difference-in-Differences, Regression Discontinuity, A/B Testing, Synthetic Control
 **Quantitative Finance:** Backtesting (Backtrader), Time-series Forecasting (ARIMA, VAR, GARCH), Stochastic Processes (GBM, OU), Monte Carlo Simulation, Alpha Signal Development
