@@ -21,7 +21,9 @@ I hold bachelor’s and master’s degrees in Engineering (*highest distinction*
 
 My research spans **energy & environmental economics, household finance, and causal ML**, focusing on **continuous treatments, spatial spillovers, and unstructured data** (images, graphs, text) to support **decision-making under uncertainty**.
 
-## 🛠 Technical Skills
+---
+
+### Technical Skills
 
 **Programming & ML:** Python (PyTorch, scikit-learn, Pandas, NumPy), R, SQL  
 **Deep Learning:** Vision Transformers, CNNs, Autoencoders, LLMs (HuggingFace, LangChain, LoRA/PEFT)  
