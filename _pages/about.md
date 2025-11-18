@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Visiting PhD Researcher at Caltech | Causal AI, Economics, Sustainability**  
+**Visiting PhD Researcher at Caltech - Causal AI, Economics, Sustainability**  
 
 I am **seeking Summer 2025 internships** in **Data Science**, **Machine Learning Engineering**, **Quant Research**, and/or **Energy**.
 
