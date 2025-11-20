@@ -9,7 +9,7 @@ redirect_from:
 
 **Visiting PhD Researcher at Caltech - Causal AI, Economics, Sustainability**  
 
-I am **seeking Summer 2025 internships** in **Data Science**, **Machine Learning Engineering**, **Quant Research**, and/or **Energy**.
+I am **seeking Summer 2026 internships** in **Data Science and Applied AI**, **Quant Research**, and/or **Energy**.
 
 I’m **SayedMorteza (Morteza) Malaekeh**, a Ph.D. student in **Sustainable Systems Engineering** at the [University of Texas at Austin](https://www.utexas.edu/), also pursuing a **Master’s in Economics**. I work in the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), in collaboration with the [Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
 
