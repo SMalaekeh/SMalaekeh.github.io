@@ -12,6 +12,8 @@ author_profile: true
 - Introduction to Programming with MATLAB — Sharif University of Technology (2018–2021)  
 
 **Teaching Assistant**  
+- Building Environmental Systems - UT Austin (2026)
+- Introduction to Energy Systems - UT Austin (2026)
 - Causal Inference & Machine Learning — UT Austin (2025)  
 - Engineering Probability & Statistics — Sharif University of Technology (Spring 2020)  
 - Hydraulic Laboratory — Sharif University of Technology (Spring 2020)  
