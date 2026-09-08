@@ -6,10 +6,11 @@ author_profile: true
 ---
 ### Upcoming Presentations
 ---
-- **United States Association for Energy Economics (USAEE, Oral), Fort Worth, TX**, 2025
+- **American Solar Energy Society National Solar Conference (ASES, Oral), Austin, TX**, 2026
   
 ### Past Presentations
 ---
+- **United States Association for Energy Economics (USAEE, Oral), Fort Worth, TX**, 2025
 - **The Workshop in Environmental Economics and Data Science (TWEEDS, Causal AI Panel), Portland, OR**, 2025
 - **NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning** 2024
 [\[NeurIPS Presentation\]](https://neurips.cc/virtual/2024/100549)
