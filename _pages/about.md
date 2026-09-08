@@ -7,40 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-**Visiting PhD Researcher at Caltech - Causal AI, Economics, Sustainability**  
+I’m **SayedMorteza (Morteza) Malaekeh**, a Ph.D. Candidate in **Sustainable Systems Engineering** at the [University of Texas at Austin](https://www.utexas.edu/), with an **M.Sc. in Economics**.
 
-I am **seeking Summer 2026 internships** in **Data Science and Applied AI**, **Quant Research**, and/or **Energy**.
+I am currently seeking **full-time opportunities starting in 2027** in **Data Science, Applied/Research ML, Recommender Systems, Quantitative Research, and Causal AI**.
 
-I’m **SayedMorteza (Morteza) Malaekeh**, a Ph.D. student in **Sustainable Systems Engineering** at the [University of Texas at Austin](https://www.utexas.edu/), also pursuing a **Master’s in Economics**. I work in the [Rapid, Equitable, & Sustainable Energy Transitions Lab (RESET-LAB)](https://www.reset-lab.com/), supervised by [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos), in collaboration with the [Lawrence Berkeley National Laboratory (LBNL)](https://emp.lbl.gov/).
+My work sits at the intersection of **machine learning, causal inference, experimentation, and large-scale data systems**.
 
-At RESET-LAB, I lead a project with **Lawrence Berkeley National Laboratory** on household finance and energy economics, working with a 13+ TB Experian credit report dataset covering 10M U.S. households (2010–2023). Using synthetic control and staggered difference-in-differences, I study the household financial impacts of residential solar adoption. My recent work on racial and ethnic gaps in solar PV diffusion is published in *Energy Policy* (2025).
+Most recently, I was a **PhD Data Science Intern at Roblox**, where I worked on the **Roblox Moments short-form video recommender system**. I used **deep learning, Double Machine Learning, Causal Forests, Bayesian optimization, and A/B testing** on petabyte-scale behavioral data to improve ranking objectives for long-term retention. I also built production-ready ML and data pipelines over billions of impression and session events.
 
-I am also a **Visiting PhD Researcher at the [California Institute of Technology](https://caltech.edu) (2024 & 2025)** in HSS (Economics & Computer Science), hosted by [Prof. Hannah Druckenmiller](https://www.hss.caltech.edu/people/hannah-druckenmiller). At Caltech, I develop conditional average treatment effect estimation methods for image-based treatments, integrating Transformer Architecture, CNNs, and Autoencoders into R-Learner and Causal Forest for large-scale multimodal policy datasets.
+I was also a **Quantitative Research Fellow at Quanta Ventures Fund**, developing and backtesting systematic trading strategies and alpha signals using machine learning, deep learning, time-series modeling, and quantitative finance methods.
 
-I hold bachelor’s and master’s degrees in Engineering (*highest distinction*) with a minor in economics from [**Sharif University of Technology**](https://en.sharif.ir/), and completed a graduate exchange in Applied Mathematics at [**Saint Petersburg State University**](https://english.spbu.ru/).
+Previously, I was a **Visiting PhD Researcher at [Caltech](https://caltech.edu)** in Economics and Computer Science, where I developed multimodal causal-learning methods combining **Vision Transformers, CNNs, representation learning, R-Learners, and Causal Forests** for high-dimensional image and tabular data.
 
-My research spans **energy & environmental economics, household finance, and causal ML**, focusing on **continuous treatments, spatial spillovers, and unstructured data** (images, graphs, text) to support **decision-making under uncertainty**.
+At **Lawrence Berkeley National Laboratory**, I studied the financial impacts of residential solar adoption using a **13+ TB Experian dataset covering ~10M U.S. households**, applying staggered difference-in-differences, matching, and causal ML. My research on solar PV diffusion was published in *Energy Policy*.
+
+My broader interests include **recommender systems, ranking, causal ML, deep learning, experimentation, quantitative modeling, and ML systems**.
 
 ---
 
 ### Technical Skills
 
-**Programming & ML:** Python (PyTorch, scikit-learn, Pandas, NumPy), R, SQL , STATA, MATLAB <br>
-**Deep Learning:** Vision Transformers, CNNs, Autoencoders, LLMs (HuggingFace, LangChain, LoRA/PEFT) <br>
-**Causal ML & Econometrics:** EconML, DoWhy, R-Learner, Causal Forests, Difference-in-Differences, Regression Discontinuity, A/B Testing, Synthetic Control <br>
-**Quantitative Finance:** Backtesting (Backtrader), Time-series Forecasting (ARIMA, VAR, GARCH), Stochastic Processes (GBM, OU), Monte Carlo Simulation, Alpha Signal Development <br>
-**Data Engineering:** Spark, Databricks, Distributed Pipelines, Large-scale Data Preproccessing (130M+ obs; 6k Vars; 13+ TB) <br>
-**Systems & Cloud:** CUDA, Slurm, Linux/Bash, Docker, Kubernetes, AWS, GCP, Git <br>
-**Geo/Spatial:**  Gepandas, Rasterio, Tifffile, GDAL, ArcGIS, QGIS, Google Earth Engine
-
+**Programming:** Python, SQL, R, MATLAB, STATA  
+**ML/AI:** PyTorch, scikit-learn, XGBoost, Recommender Systems, Deep Learning, LLMs (Hugging Face, LangChain, PEFT/LoRA), Bayesian Optimization  
+**Causal ML & Experimentation:** Double ML, R-Learner, Causal Forests, EconML, DoWhy, A/B Testing, DiD, Synthetic Control  
+**Quantitative Finance:** Backtesting, Alpha Signals, Time-Series Modeling, Monte Carlo Simulation, Stochastic Processes  
+**Data & MLOps:** Spark/PySpark, Hive, Trino, Databricks, Distributed Pipelines, Docker, Kubernetes  
+**Cloud & Compute:** AWS, GCP, CUDA, Slurm/HPC, Linux/Bash, Git  
 
 ---
 
 ### Service & Activities
-- **Program Committee**: NeurIPS GenAI for Health (2024 & 2025)  
-- **Reviewer**: NeurIPS GenAI for Health, Agricultural Economics, Theoretical & Applied Climatology, Environmental Monitoring & Assessment  
-- **Board of Directors**, Persian Student Society at UT Austin  
-- **Peer Mentor**, UT Austin  
-- **Teacher**, Yarigaran Education Charity Group  
-- **Basketball Analyst/Writer**, [3Sanieh](https://www.instagram.com/3sanieh/)  
-- **Varsity Basketball Athlete**, Sharif University of Technology
+
+- **Program Committee / Reviewer:** NeurIPS GenAI for Health
+- **Reviewer:** *Agricultural Economics*, *Theoretical & Applied Climatology*, *Environmental Monitoring & Assessment*
+- **Board of Directors:** Persian Student Society at UT Austin
+- **Peer Mentor:** UT Austin
+- **Teacher:** Yarigaran Education Charity Group
+- **Basketball Analyst/Writer:** [3Sanieh](https://www.instagram.com/3sanieh/)
+- **Former Varsity Basketball Athlete:** Sharif University of Technology
