@@ -2,30 +2,40 @@
 permalink: /
 title: "Hey there, thanks for stopping by!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I’m SayedMorteza (Morteza) Malaekeh, a Ph.D. Candidate in Sustainable Systems Engineering at the [University of Texas at Austin](https://www.utexas.edu/), with an M.Sc. in Economics. I am currently seeking full-time opportunities starting in 2027 in data science, applied/research ML, recommender systems, quantitative research, and causal AI.
+I’m SayedMorteza (Morteza) Malaekeh, a Ph.D. Candidate in Sustainable Systems Engineering at the [University of Texas at Austin](https://www.utexas.edu/), with an M.Sc. in Economics.
 
-My research focuses on applying causal inference and machine learning in high-dimensional settings to important societal and business problems, particularly in recommender systems, economics, finance, and sustainability.
+My research spans **causal inference, representation learning, machine learning, and econometrics**, with applications in economics, finance, recommender systems, and sustainability. I develop and apply methods for learning from large-scale, high-dimensional, and multimodal data to understand complex relationships, estimate heterogeneous effects, and support better decisions.
+
+At UT Austin, I work with [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos) in the [RESET Lab](https://www.reset-lab.com/). My doctoral research examines technology diffusion, household financial outcomes, and environmental benefits, combining causal inference with machine learning and large-scale observational data.
+
+At [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), my research examines how residential solar adoption affects household financial well-being. I combine large-scale consumer credit and energy datasets with causal inference to study financial outcomes and how effects differ across households and financing arrangements.
+
+As a Visiting PhD Researcher at [Caltech](https://www.caltech.edu/), I worked with [Prof. Hannah Druckenmiller](https://www.hss.caltech.edu/people/hannah-druckenmiller) on multimodal causal machine learning for environmental economics. This work combines representation learning, imagery, and tabular data to estimate the flood protection benefits of wetlands.
+
+**I am seeking academic and industry opportunities starting in 2027**, including faculty and postdoctoral positions, research scientist and applied ML roles, data science, and quantitative research.
+
+[Research & Publications](/research/) · [Teaching](/teaching/) · [Talks](/talks/)
+
+---
+
+### Industry Experience
 
 Most recently, I was a PhD Data Science Intern at [Roblox](https://www.roblox.com/), where I worked on the Roblox Moments short-form video recommender system, using causal ML, deep learning, Bayesian optimization, and A/B testing on large-scale behavioral data.
 
 I was also a Quantitative Research Fellow at Quanta Ventures Fund, developing and backtesting systematic trading strategies using machine learning and quantitative methods.
 
-Previously, I was a Visiting PhD Researcher at [Caltech](https://www.caltech.edu/) and a researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), working on multimodal causal ML and large-scale economic and energy datasets.
-
-I have been fortunate to work with [Prof. Sergio Castellanos](https://www.caee.utexas.edu/people/faculty/faculty-directory/castellanos) at UT Austin and [Prof. Hannah Druckenmiller](https://www.hss.caltech.edu/people/hannah-druckenmiller) at Caltech, whose mentorship has shaped much of my work in causal inference, economics, and data science.
-
 ---
 
-### Technical Skills
+### Research & Technical Skills
 
-**Programming:** Python, SQL, R, MATLAB, STATA  
-**ML/AI:** PyTorch, scikit-learn, XGBoost, Recommender Systems, Deep Learning, LLMs (Hugging Face, LangChain, PEFT/LoRA), Bayesian Optimization  
-**Causal ML & Experimentation:** Double ML, R-Learner, Causal Forests, EconML, DoWhy, A/B Testing, DiD, Synthetic Control  
+**Causal Inference & Experimentation:** Double ML, R-Learner, Causal Forests, Difference-in-Differences, Synthetic Control, A/B Testing, EconML, DoWhy  
+**Machine Learning & AI:** Representation Learning, Multimodal Learning, Deep Learning, Recommender Systems, PyTorch, scikit-learn, XGBoost, Bayesian Optimization, LLMs (Hugging Face, LangChain, PEFT/LoRA)  
+**Programming:** Python, SQL, R, MATLAB, Stata  
 **Quantitative Finance:** Backtesting, Alpha Signals, Time-Series Modeling, Monte Carlo Simulation, Stochastic Processes  
 **Data & MLOps:** Spark/PySpark, Hive, Trino, Databricks, Distributed Pipelines, Docker, Kubernetes  
 **Cloud & Compute:** AWS, GCP, CUDA, Slurm/HPC, Linux/Bash, Git  
